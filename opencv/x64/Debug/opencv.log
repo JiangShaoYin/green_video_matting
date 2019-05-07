@@ -1,0 +1,5 @@
+﻿  1.cpp
+c:\users\administrator\desktop\opencv_demo\opencv\opencv\1.cpp(113): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\opencv_demo\opencv\opencv\1.cpp(114): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\opencv_demo\opencv\opencv\1.cpp(115): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  opencv.vcxproj -> C:\Users\Administrator\Desktop\opencv_demo\opencv\x64\Debug\opencv.exe
